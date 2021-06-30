@@ -24,7 +24,7 @@
     <div id="ruby_pipeline"></div>
 </div>
 
-<script type="text/javascript" src="ruby-pipeline-script-v1.js"></script>
+<script type="text/javascript" src="dist/ruby-pipeline.js"></script>
 <script type="text/javascript">
     let rubyForm = new RubyForm({
         key : "a7938bf859ce7b405d28e86d50f069c5"
