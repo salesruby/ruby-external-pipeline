@@ -14,11 +14,13 @@ Add the following markup in any page you want the form to show up
 ```
 
 Init the script like so;
-```javascript
-let rubyForm = new RubyForm({
+```html
+<script type="text/javascript">
+    let rubyForm = new RubyForm({
         key : "your_rubystack_api_key"
     });
     rubyForm.init();
+</script>
 ```
 
 #### Made with love by Kesty
