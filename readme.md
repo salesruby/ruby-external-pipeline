@@ -5,7 +5,7 @@ any external source to Rubystack application.
 ## Usage
 include the script before the closing ```<body>``` tag of your website
 ```html
-<sript type="text/javascript" src="https://cdn.jsdelivr.net/gh/salesruby/ruby-external-pipeline/dist/ruby-pipeline.js"></script>
+<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/salesruby/ruby-external-pipeline/dist/ruby-pipeline.js"></script>
 ```
 
 Add the following markup in any page you want the form to show up
