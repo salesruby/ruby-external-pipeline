@@ -7,7 +7,6 @@
         this.rubySubmitButton = null;
         this.formFields = null;
         this.baseUrl = "https://server.rubystack.io";
-
         // Define default options
         let defaults = {
             colors : {
